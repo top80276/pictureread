@@ -57,7 +57,7 @@ namespace DB
         /// <summary>
         /// Connection string.
         /// </summary>
-        public static string ConnectionString = "data source=172.16.110.16;initial catalog=FileStore;user id=sa;persist security info=True;password=a@t123;workstation id=AAT-MAHLER-NB;packet size=4096;";
+        public static string ConnectionString = "data source=localhost;initial catalog=FileStore;user id=sa;persist security info=True;password=XXXXX;workstation id=AAT-MAHLER-NB;packet size=4096;";
 
         /// <summary>
         /// Command Timeout time.
