@@ -9,7 +9,7 @@
     },
     "environmentVariables": {
       "ASPNETCORE_ENVIRONMENT": "Development",
-      "CONN_STR": "data source=172.16.110.16;initial catalog=FileStore;user id=sa;persist security info=True;password=a@t123;workstation id=AAT-MAHLER-NB;packet size=4096;",
+      "CONN_STR": "data source=localhost;initial catalog=FileStore;user id=sa;persist security info=True;password=XXXXX;workstation id=NB;packet size=4096;",
       "API_KEY": "@@@API-KEY@@@"
     }
   },
@@ -22,7 +22,7 @@
       "applicationUrl": "https://localhost:7127;http://localhost:5103",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "CONN_STR": "data source=172.16.110.16;initial catalog=FileStore;user id=sa;persist security info=True;password=a@t123;workstation id=AAT-MAHLER-NB;packet size=4096;",
+        "CONN_STR": "data source=localhost;initial catalog=FileStore;user id=sa;persist security info=True;password=XXXXX;workstation id=NB;packet size=4096;",
         "API_KEY" : "@@@API-KEY@@@"
       }
     },
@@ -32,7 +32,7 @@
       "launchUrl": "weatherforecast",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "CONN_STR": "data source=172.16.110.16;initial catalog=FileStore;user id=sa;persist security info=True;password=a@t123;workstation id=AAT-MAHLER-NB;packet size=4096;",
+        "CONN_STR": "data source=localhost;initial catalog=FileStore;user id=sa;persist security info=True;password=XXXXX;workstation id=ANB;packet size=4096;",
         "API_KEY": "@@@API-KEY@@@"
       }
     }
